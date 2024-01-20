@@ -1,0 +1,119 @@
+#main{
+    width: 350px;
+    height: 500px;
+}
+
+.card{
+    background-color: rgb(255, 255, 255);
+}
+
+.btn{
+    width: 100%;
+    height: 70px;
+    border-radius: 0%;
+    border: 1px solid white;
+    background-color: rgb(241, 241, 241);
+    color: rgb(46, 44, 44);
+    font-weight: bold;
+    font-family: 'Secular One', sans-serif;
+}
+
+.btnAndro{
+    width:100%;
+    height: 70px;
+    border-radius: 0%;
+    border: none;
+    background-color: #b9c0b9;
+    color: rgb(250, 246, 246);
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+.cardAndro{
+    background-color: #d7dad7;
+}
+
+.lyra{
+    background-color: #f87000;
+    width: 100%;
+    height: 80%;
+    text-align: center;
+    padding-top: 10%;
+    border-radius:none;
+}
+
+.opr{
+    background-color: rgb(0, 255, 149);
+    color: white;
+}
+
+.cardIp{
+    background-color: rgb(71, 69, 69);
+}
+
+.btnIp{
+    width: 100%;
+    height: 70px;
+    border-radius: 50%;
+    border: 2px solid rgb(71, 69, 69);
+    background-color: rgb(102, 100, 100);
+    color: rgb(255, 253, 253);
+    font-weight: bold;
+    font-family: 'Secular One', sans-serif;
+}
+
+.btnDark{
+    width: 100%;
+    height: 70px;
+    border-radius: 0%;
+    border: 1px solid black;
+    background-color: rgb(69, 70, 69);
+    color: rgb(255, 253, 253);
+    font-weight: bold;
+    font-family: 'Secular One', sans-serif;
+    
+}
+
+.btn-group{
+    width: 100%;
+}
+
+#rwyt{
+    height: 10px;
+    color: rgb(96, 236, 178);
+}
+
+.result{
+    height: 50px;
+}
+
+.dropdown-toggle{
+    width: 20px;
+    height: 30px;
+    background:none;
+    color: black;
+    border: none;
+}
+
+.dropdown-toggle:hover{
+    color: rgb(96, 236, 178);
+}
+
+#div{
+    color: white;
+}
+
+#undo{
+    cursor: pointer;
+}
+
+#undo:hover{
+    width: 28px;
+    height: auto;
+}
+
+
+#flexSwitchCheckDefault{
+    cursor: pointer;
+}
+
