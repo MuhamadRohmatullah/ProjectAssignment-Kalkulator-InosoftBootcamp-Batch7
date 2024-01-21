@@ -92,7 +92,7 @@ bagi.addEventListener('click', function(){
 });
 
 persen.addEventListener('click', function(){
-    jumlah = document.getElementsByClassName('jml')[0].innerHTML;
+    jumlah = eval(document.getElementsByClassName('jml')[0].innerHTML);
     jumlah = jumlah*1/100;
     document.getElementsByClassName('jml')[0].innerHTML = jumlah;
 });
