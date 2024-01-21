@@ -9,6 +9,7 @@ Project ini terdiri dari :
 Beberapa fitur yang ada dalam project ini :
 - app berjalan dengan baik tanpa erorr, menggunakan satu input saja, style menggunakan bootstrap, ada fitur clear, ada fitur bilangan minus, koma, persen(ketentuan wajib)
 - fitur tambahan
+  - fitur clear, bisa menghapus satu angka atau operasi inputan.
   - input angka, clear dan clear all bisa di ketik keyboard. angka dengan keypad angka, clear dengan backspace dan clear all dengan delete.
   - riwayat penjumlahan, muncul operasi yang dilakukan dari hasil sama dengan di atas hasil sama dengan.
   - Undo riwayat penjumlahan, riwayat penjumlahan dari operasi sebelumnya bisa dikembalikan ke input.
