@@ -15,4 +15,7 @@ Beberapa fitur yang ada dalam project ini :
   - Undo riwayat penjumlahan, riwayat penjumlahan dari operasi sebelumnya bisa dikembalikan ke input.
   - Dark mode, tema bisa diubah menjadi tema gelap dengan mengaktifkan tombol switch yang berada di tengah atas.
   - Size, ukuran kalkulator saat berada di layar dekstop bisa dalam beberapa ukuran, small ukuran default, medium dan large.
-  - Theme, tampilan kalkulator bisa diubah ke beberapa tema, default untuk tema default, android dan iphone. 
+  - Theme, tampilan kalkulator bisa diubah ke beberapa tema, default untuk tema default, android dan iphone.
+ 
+
+<a href="https://muhamadrohmatullah.github.io/ProjectAssignment-Kalkulator-InosoftBootcamp-Batch7">Lihat Web</a>
